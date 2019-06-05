@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+VuforiaARDemo/Assets/PlayServicesResolver*
+VuforiaARDemo/Assets/GoogleARCore*
+VuforiaARDemo/Assets/TextMesh Pro*
 
 # Visual Studio cache directory
 .vs/

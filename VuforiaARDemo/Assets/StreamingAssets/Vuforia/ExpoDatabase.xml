@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="0003" size="100.000000 131.453735" />
+    <ImageTarget name="0002" size="100.000000 141.500305" />
+    <ImageTarget name="0001" size="100.000000 141.500305" />
+    <ImageTarget name="WashingPowder_scaled" size="100.000000 104.170906" />
+    <ImageTarget name="Sweets_scaled" size="100.000000 115.315315" />
+    <ImageTarget name="Soda2_scaled" size="100.000000 153.753754" />
+    <ImageTarget name="Soda1_scaled" size="100.000000 163.057327" />
+    <ImageTarget name="RomanyCreams_scaled" size="100.000000 54.785156" />
+    <ImageTarget name="Rice_scaled" size="100.000000 159.501556" />
+    <ImageTarget name="Oil_scaled" size="100.000000 207.707916" />
+    <ImageTarget name="Milk_scaled" size="100.000000 84.765625" />
+    <ImageTarget name="Maize_scaled" size="100.000000 130.612244" />
+    <ImageTarget name="Grandpa_scaled" size="100.000000 112.035011" />
+    <ImageTarget name="Coffee_scaled" size="100.000000 188.929886" />
+    <ImageTarget name="ClubBeer_scaled" size="100.000000 116.099770" />
+    <ImageTarget name="Chips_scaled" size="100.000000 87.988281" />
+    <ImageTarget name="Bleach_scaled" size="100.000000 99.511719" />
+    <ImageTarget name="Beer_scaled" size="100.000000 77.832031" />
+    <ImageTarget name="Beans_scaled" size="100.000000 177.469666" />
+  </Tracking>
+</QCARConfig>
