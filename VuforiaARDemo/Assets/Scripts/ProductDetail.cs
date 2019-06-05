@@ -99,6 +99,73 @@ public static class ProductDetail
                 price = "R35.00";
             }
             break;
+            case ("Cat_Level"):
+            {
+                name = "Ross Artisan Level 450mm";
+                price = "R95.00";
+            }
+            break;
+            case ("Cat_BuildersCompressionElbow"):
+            {
+                name = "Builders Compression Elbow Wallplate CXFI";
+                price = "R70.00";
+            }
+            break;
+            case ("Cat_Grip3-30"):
+            {
+                name = "Grip 3-30mm Pipe Cutter";
+                price = "R200.00";
+            }
+            break;
+            case ("Cat_CopperTube"):
+            {
+                name = "Copper tube Len 460/2";
+                price = "R160.00";
+            }
+            break;
+            case ("Cat_ElliesSunflower"):
+            {
+                name = "Ellies Sunflower Shower Head - Chrome (180 mm)";
+                price = "R141.00";
+            }
+            break;
+            case ("Cat_showerArm"):
+            {
+                name = "Shower Arm Standard";
+                price = "R141.00";
+            }
+            break;
+            case ("Cat_buildersStop"):
+            {
+                name = "Builders Stop Tap Rb FXF (15mm)";
+                price = "R240.00";
+            }
+            break;
+            case ("Cat_buildersCompression"):
+            {
+                name = "Builders Compression Tee Reducer";
+                price = "R87.00";
+            }
+            break;
+            case ("Cat_ptfeh"):
+            {
+                name = "Builders Ptfetch Roll Tee Reducer";
+                price = "R40.00";
+            }
+            break;
+            case ("Cat_GripPliers"):
+            {
+                name = "Grip Pliers Water Pump 250 mm";
+                price = "R185.00";
+            }
+            break;
+            case ("Cat_200mmAdjustable"):
+            {
+                name = "200mm Adjustable Wrench";
+                price = "R150.00";
+            }
+            break;
+
         }
     }
 }
