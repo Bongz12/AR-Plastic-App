@@ -7,165 +7,214 @@ public static class ProductDetail
     public static string name;
     public static string price;
 
-    public static void GetProductDetails(string prodName){
-        switch(prodName){
+    public static void GetProductDetails(string prodName)
+    {
+        switch (prodName)
+        {
             case ("Prod_RomanyCreams"):
-            {
-                name = "Romany Creams";
-                price = "R28.99";
-            }
-            break;
+                {
+                    name = "Romany Creams";
+                    price = "R28.99";
+                }
+                break;
             case ("Prod_SpecialK"):
-            {
-                name = "Special K - Cereal Bars";
-                price = "R19.50";
-            }
-            break;
+                {
+                    name = "Special K - Cereal Bars";
+                    price = "R19.50";
+                }
+                break;
             case ("Cat_Beans"):
-            {
-                name = "Baked Beans";
-                price = "R36.00";
-            }
-            break;
+                {
+                    name = "Baked Beans";
+                    price = "R36.00";
+                }
+                break;
             case ("Cat_Beer"):
-            {
-                name = "Heineken";
-                price = "R259.00";
-            }
-            break;
+                {
+                    name = "Heineken";
+                    price = "R259.00";
+                }
+                break;
             case ("Cat_Bleach"):
-            {
-                name = "Domestos Bleach";
-                price = "R21.00";
-            }
-            break;
+                {
+                    name = "Domestos Bleach";
+                    price = "R21.00";
+                }
+                break;
             case ("Cat_Chips"):
-            {
-                name = "NikNaks";
-                price = "R34.00";
-            }
-            break;
+                {
+                    name = "NikNaks";
+                    price = "R34.00";
+                }
+                break;
             case ("Cat_Coffee"):
-            {
-                name = "Ricoffy";
-                price = "R66.00";
-            }
-            break;
+                {
+                    name = "Ricoffy";
+                    price = "R66.00";
+                }
+                break;
             case ("Cat_Grandpa"):
-            {
-                name = "Grand-pa Powder";
-                price = "R153.00";
-            }
-            break;
+                {
+                    name = "Grand-pa Powder";
+                    price = "R153.00";
+                }
+                break;
             case ("Cat_Maize"):
-            {
-                name = "Nyala Maize Meal";
-                price = "R48.00";
-            }
-            break;
+                {
+                    name = "Nyala Maize Meal";
+                    price = "R48.00";
+                }
+                break;
             case ("Cat_Milk"):
-            {
-                name = "Full Cream Milk";
-                price = "R69.00";
-            }
-            break;
+                {
+                    name = "Full Cream Milk";
+                    price = "R69.00";
+                }
+                break;
             case ("Cat_Rice"):
-            {
-                name = "Spekko - Rice";
-                price = "R79.00";
-            }
-            break;
+                {
+                    name = "Spekko - Rice";
+                    price = "R79.00";
+                }
+                break;
             case ("Cat_Soda1"):
-            {
-                name = "Soft Drinks";
-                price = "R165.00";
-            }
-            break;
+                {
+                    name = "Soft Drinks";
+                    price = "R165.00";
+                }
+                break;
             case ("Cat_Soda2"):
-            {
-                name = "Soft Drinks Suger Free";
-                price = "R154.00";
-            }
-            break;
+                {
+                    name = "Soft Drinks Suger Free";
+                    price = "R154.00";
+                }
+                break;
             case ("Cat_Sweets"):
-            {
-                name = "Beacon Mini Prepacks";
-                price = "R150.00";
-            }
-            break;
+                {
+                    name = "Beacon Mini Prepacks";
+                    price = "R150.00";
+                }
+                break;
             case ("Cat_WashingPowder"):
-            {
-                name = "Sunlight Washing Powder";
-                price = "R35.00";
-            }
-            break;
+                {
+                    name = "Sunlight Washing Powder";
+                    price = "R35.00";
+                }
+                break;
             case ("Cat_Level"):
-            {
-                name = "Ross Artisan Level 450mm";
-                price = "R95.00";
-            }
-            break;
+                {
+                    name = "Ross Artisan Level 450mm";
+                    price = "R95.00";
+                }
+                break;
             case ("Cat_BuildersCompressionElbow"):
-            {
-                name = "Builders Compression ..";
-                price = "R70.00";
-            }
-            break;
+                {
+                    name = "Builders Compression ..";
+                    price = "R70.00";
+                }
+                break;
             case ("Cat_Grip3-30"):
-            {
-                name = "Grip 3-30mm Pipe Cutter";
-                price = "R200.00";
-            }
-            break;
+                {
+                    name = "Grip 3-30mm Pipe Cutter";
+                    price = "R200.00";
+                }
+                break;
             case ("Cat_CopperTube"):
-            {
-                name = "Copper tube Len 460/2";
-                price = "R160.00";
-            }
-            break;
+                {
+                    name = "Copper tube Len 460/2";
+                    price = "R160.00";
+                }
+                break;
             case ("Cat_ElliesSunflower"):
-            {
-                name = "Ellies Sunflower Shower ..";
-                price = "R141.00";
-            }
-            break;
+                {
+                    name = "Ellies Sunflower Shower ..";
+                    price = "R141.00";
+                }
+                break;
             case ("Cat_showerArm"):
-            {
-                name = "Shower Arm Standard";
-                price = "R141.00";
-            }
-            break;
+                {
+                    name = "Shower Arm Standard";
+                    price = "R141.00";
+                }
+                break;
             case ("Cat_buildersStop"):
-            {
-                name = "Builders Stop Tap..";
-                price = "R240.00";
-            }
-            break;
+                {
+                    name = "Builders Stop Tap..";
+                    price = "R240.00";
+                }
+                break;
             case ("Cat_buildersCompression"):
-            {
-                name = "Builders Compression T..";
-                price = "R87.00";
-            }
-            break;
+                {
+                    name = "Builders Compression T..";
+                    price = "R87.00";
+                }
+                break;
             case ("Cat_ptfeh"):
-            {
-                name = "Builders Ptfetch Roll ..";
-                price = "R40.00";
-            }
-            break;
+                {
+                    name = "Builders Ptfetch Roll ..";
+                    price = "R40.00";
+                }
+                break;
             case ("Cat_GripPliers"):
-            {
-                name = "Grip Pliers Water Pump 250 mm";
-                price = "R185.00";
-            }
-            break;
+                {
+                    name = "Grip Pliers Water Pump 250 mm";
+                    price = "R185.00";
+                }
+                break;
             case ("Cat_200mmAdjustable"):
-            {
-                name = "200mm Adjustable Wrench";
-                price = "R150.00";
-            }
-            break;
-
+                {
+                    name = "200mm Adjustable Wrench";
+                    price = "R150.00";
+                }
+                break;
+            case ("Cat_IllovoLightBrownSugar"):
+                {
+                    name = "Illovo Light Brown Sugar";
+                    price = "R90.00";
+                }
+                break;
+            case ("Cat_MelroseCheeseSpread"):
+                {
+                    name = "Melrose Cheese Spread";
+                    price = "R80.00";
+                }
+                break;
+            case ("Cat_NescafeClassicCoffee"):
+                {
+                    name = "Nescafe Classic Coffee";
+                    price = "R130.00";
+                }
+                break;
+            case ("Cat_HarvestimeFrozenChips"):
+                {
+                    name = "Harvestime Frozen Chips";
+                    price = "R120.00";
+                }
+                break;
+            case ("Cat_BakersProvitaBiscuits"):
+                {
+                    name = "Bakers Provita Biscuits";
+                    price = "R55.00";
+                }
+                break;
+            case ("Cat_Rhodes100FruitJuice"):
+                {
+                    name = "Rhodes 100% Fruit Juice...";
+                    price = "R85.00";
+                }
+                break;
+            case ("Cat_LindtExcelentChocolate"):
+                {
+                    name = "LindtExcelentChocolate";
+                    price = "R130.00";
+                }
+                break;
+            case ("Cat_WillardsCrinkleCut"):
+                {
+                    name = "Willards Crinkle Cut...";
+                    price = "R50.00";
+                }
+                break;
         }
     }
 }

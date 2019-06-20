@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="assemble1" size="100.000000 93.372780" />
+    <ImageTarget name="ArrowNew" size="100.000000 56.177723" />
+    <ImageTarget name="Cat_WillardsCrinkleCut" size="100.000000 83.169289" />
+    <ImageTarget name="Cat_Rhodes100FruitJuice" size="100.000000 83.432541" />
+    <ImageTarget name="Cat_NescafeClassicCoffee" size="100.000000 81.280785" />
+    <ImageTarget name="Cat_MelroseCheeseSpread" size="100.000000 80.753967" />
+    <ImageTarget name="Cat_LindtExcelentChocolate" size="100.000000 86.258774" />
+    <ImageTarget name="Cat_IllovoLightBrownSugar" size="100.000000 80.077744" />
+    <ImageTarget name="Cat_HarvestimeFrozenChips" size="100.000000 79.593811" />
+    <ImageTarget name="Cat_BakersProvitaBiscuits" size="100.000000 84.623116" />
+    <ImageTarget name="arr" size="100.000000 57.013577" />
     <ImageTarget name="arrow" size="1000.000000 568.965515" />
     <ImageTarget name="builders_stop" size="100.000000 159.188538" />
     <ImageTarget name="builders_ptfeh" size="100.000000 156.511627" />
