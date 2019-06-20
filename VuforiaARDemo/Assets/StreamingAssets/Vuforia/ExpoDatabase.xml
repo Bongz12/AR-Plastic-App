@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="arrow" size="1000.000000 568.965515" />
     <ImageTarget name="builders_stop" size="100.000000 159.188538" />
     <ImageTarget name="builders_ptfeh" size="100.000000 156.511627" />
     <ImageTarget name="Builders_Compression_elbow" size="100.000000 162.605759" />

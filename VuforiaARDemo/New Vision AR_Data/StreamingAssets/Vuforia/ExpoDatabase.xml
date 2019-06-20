@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="builders_stop" size="100.000000 159.188538" />
+    <ImageTarget name="builders_ptfeh" size="100.000000 156.511627" />
+    <ImageTarget name="Builders_Compression_elbow" size="100.000000 162.605759" />
+    <ImageTarget name="builder_compression" size="100.000000 162.077301" />
+    <ImageTarget name="assemble" size="100.000000 68.732391" />
+    <ImageTarget name="200mm_Adjustable" size="100.000000 160.963852" />
+    <ImageTarget name="Shower_arm" size="100.000000 160.817307" />
+    <ImageTarget name="Grip_Pliers" size="100.000000 158.809525" />
+    <ImageTarget name="ellies" size="100.000000 161.237106" />
     <ImageTarget name="Ross_Tape_Measure" size="100.000000 160.066559" />
     <ImageTarget name="ross_artisan_level" size="100.000000 155.177994" />
     <ImageTarget name="Grip_3-30_mm" size="100.000000 160.500000" />
