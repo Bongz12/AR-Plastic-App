@@ -107,7 +107,7 @@ public static class ProductDetail
             break;
             case ("Cat_BuildersCompressionElbow"):
             {
-                name = "Builders Compression Elbow Wallplate CXFI";
+                name = "Builders Compression ..";
                 price = "R70.00";
             }
             break;
@@ -125,7 +125,7 @@ public static class ProductDetail
             break;
             case ("Cat_ElliesSunflower"):
             {
-                name = "Ellies Sunflower Shower Head - Chrome (180 mm)";
+                name = "Ellies Sunflower Shower ..";
                 price = "R141.00";
             }
             break;
@@ -137,19 +137,19 @@ public static class ProductDetail
             break;
             case ("Cat_buildersStop"):
             {
-                name = "Builders Stop Tap Rb FXF (15mm)";
+                name = "Builders Stop Tap..";
                 price = "R240.00";
             }
             break;
             case ("Cat_buildersCompression"):
             {
-                name = "Builders Compression Tee Reducer";
+                name = "Builders Compression T..";
                 price = "R87.00";
             }
             break;
             case ("Cat_ptfeh"):
             {
-                name = "Builders Ptfetch Roll Tee Reducer";
+                name = "Builders Ptfetch Roll ..";
                 price = "R40.00";
             }
             break;
